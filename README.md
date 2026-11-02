@@ -1,2 +1,2 @@
 # my-repo-template-base
-This is template repo
+This is template repo.
